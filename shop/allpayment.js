@@ -1,21 +1,21 @@
 const allpayment = (prefix) => {
-return `PAYMENT BY ZEEONE OFC
+return `PAYMENT BY Black BotZ Official
 
 *さ BANK*
 1. BRI 
-	ㅁ 5074-01-003141-52-8
-		• R***A*DI
+	ㅁ 
+		• A**S S*RO*O
 		
 *さ E-MONEY*
 1. GOPAY
-	ㅁ 0887 4350 47326
-		• ZE**** **C
+	ㅁ 0821 4334 9069
+		
 2. OVO
-	ㅁ 0887 4350 47326
-		• EL*****TI
+	ㅁ 0823 3123 6882
+		
 3. DANA
-	ㅁ 0887 4350 47326
-		• ZE**** **C
+	ㅁ 082143349069
+		
 
 *さ PULSA*
 
